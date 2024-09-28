@@ -1,2 +1,1 @@
-# YYY
-# YYY
+Github installed sucessfully
